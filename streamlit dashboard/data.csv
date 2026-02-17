@@ -1,0 +1,13 @@
+Category,Product,Region,Date,Sales
+Electronics,Laptop,North,10-01-2024,55000
+Electronics,Mobile,South,12-01-2024,30000
+Electronics,Tablet,East,15-01-2024,25000
+Clothing,T-Shirt,North,18-01-2024,12000
+Clothing,Jeans,West,20-01-2024,18000
+Clothing,Jacket,South,25-01-2024,22000
+Furniture,Chair,East,28-01-2024,15000
+Furniture,Table,North,01-02-2024,27000
+Furniture,Sofa,West,05-02-2024,45000
+Electronics,Laptop,West,10-02-2024,60000
+Clothing,T-Shirt,East,12-02-2024,14000
+Furniture,Chair,South,15-02-2024,17000
